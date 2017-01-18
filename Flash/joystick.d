@@ -1,0 +1,9 @@
+.\Flash\joystick.o: joystick.c
+.\Flash\joystick.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\Flash\joystick.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+.\Flash\joystick.o: C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Flash\joystick.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Flash\joystick.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Flash\joystick.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Flash\joystick.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Flash\joystick.o: GLCD.h
